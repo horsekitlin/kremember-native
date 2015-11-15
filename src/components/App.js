@@ -15,8 +15,9 @@ export default class App extends React.Component {
   render() {
     return (
         <View>
-           <Text>hello world</Text>
-           <Text>hello world</Text>
+            <Text>hello world</Text>
+            <Text>hello world</Text>
+            <Text>hello world</Text>
         </View>
     );
   }

@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "BabelES6.app"
-               BlueprintName = "BabelES6"
-               ReferencedContainer = "container:BabelES6.xcodeproj">
+               BuildableName = "krememberNative.app"
+               BlueprintName = "krememberNative"
+               ReferencedContainer = "container:krememberNative.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "BabelES6Tests.xctest"
-               BlueprintName = "BabelES6Tests"
-               ReferencedContainer = "container:BabelES6.xcodeproj">
+               BuildableName = "krememberNativeTests.xctest"
+               BlueprintName = "krememberNativeTests"
+               ReferencedContainer = "container:krememberNative.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -47,9 +47,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "BabelES6Tests.xctest"
-               BlueprintName = "BabelES6Tests"
-               ReferencedContainer = "container:BabelES6.xcodeproj">
+               BuildableName = "krememberNativeTests.xctest"
+               BlueprintName = "krememberNativeTests"
+               ReferencedContainer = "container:krememberNative.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -57,9 +57,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "BabelES6.app"
-            BlueprintName = "BabelES6"
-            ReferencedContainer = "container:BabelES6.xcodeproj">
+            BuildableName = "krememberNative.app"
+            BlueprintName = "krememberNative"
+            ReferencedContainer = "container:krememberNative.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -77,9 +77,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "BabelES6.app"
-            BlueprintName = "BabelES6"
-            ReferencedContainer = "container:BabelES6.xcodeproj">
+            BuildableName = "krememberNative.app"
+            BlueprintName = "krememberNative"
+            ReferencedContainer = "container:krememberNative.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -96,9 +96,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "BabelES6.app"
-            BlueprintName = "BabelES6"
-            ReferencedContainer = "container:BabelES6.xcodeproj">
+            BuildableName = "krememberNative.app"
+            BlueprintName = "krememberNative"
+            ReferencedContainer = "container:krememberNative.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

@@ -1,4 +1,4 @@
-package com.babeles6;
+package com.kremembernative;
 
 import android.app.Activity;
 import android.os.Bundle;
@@ -30,7 +30,7 @@ public class MainActivity extends Activity implements DefaultHardwareBackBtnHand
                 .setInitialLifecycleState(LifecycleState.RESUMED)
                 .build();
 
-        mReactRootView.startReactApplication(mReactInstanceManager, "BabelES6", null);
+        mReactRootView.startReactApplication(mReactInstanceManager, "krememberNative", null);
 
         setContentView(mReactRootView);
     }
